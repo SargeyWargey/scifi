@@ -1,5 +1,27 @@
 # Science Deep Dive: The Physics of Your Black Hole Transit
 
+## DECISIONS MADE ✓
+
+### Black Hole Parameters
+- **Type**: Supermassive Kerr black hole (~50-100 million solar masses)
+- **Spin**: Near-maximum rotation (a ≈ 0.998 M) - naturally occurring
+- **Special Quality**: First black hole discovered that meets criteria for safe passage
+  - Combination of mass, spin rate, and stability is extremely rare
+  - Not artificially created - just the right natural conditions
+
+### Mission Parameters
+- **Communication**: Assumed one-way trip into silence
+  - Unknown if return is possible (crew doesn't know)
+  - Due to time dilation, everyone they know will be dead anyway
+  - No communication possible once inside event horizon
+- **Journey Nature**: Permanent departure from their timeline
+
+### What's On The Other Side
+- **Status**: To be determined (researching realistic options)
+- **Constraint**: Must be semi-realistic, grounded in theoretical physics
+
+---
+
 ## Part 1: Real Physics (What We Know)
 
 ### Kerr Black Holes: The Rotating Kind
